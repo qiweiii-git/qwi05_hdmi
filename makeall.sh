@@ -11,7 +11,7 @@
 PrjName='qwi05_hdmi'
 ChipType='xc7z020clg400-2'
 IverilogCompile='0'
-SwBuild='0'
+SwBuild='1'
 
 #*****************************************************************************
 # Dir defines
